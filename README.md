@@ -1,3 +1,4 @@
 # HESOD
 HESOD:  HIGH-RESOLUTION EFFICIENT SMALL OBJECT DETECTION VIA SEMANTIC-SPECTRAL DUAL SELECTION
+
 Source code and weights will be available upon acceptance.
